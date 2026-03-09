@@ -2,11 +2,14 @@
 
 This project demonstrates live video streaming using the ESP32-CAM module and Arduino IDE.
 
-## 🚀 Demo Video
+## 🚀 Demo
 
-Watch the project demo here:
+📹 **ESP32-CAM Live Video Streaming**
 
+▶️ Watch the working demo of the project here:
 https://www.linkedin.com/posts/-rahuljana_esp32-iot-embeddedsystems-activity-7385629531056889856-BIu3
+
+The demo shows the ESP32-CAM module capturing video and streaming it over WiFi to a browser using the built-in web server.
 
 ## 📌 Project Overview
 
